@@ -1,0 +1,7 @@
+C:\Users\Rigob\Desktop\School\F18\Code\Formulas2\Formulas2\obj\Debug\Formulas2.csprojAssemblyReference.cache
+C:\Users\Rigob\Desktop\School\F18\Code\Formulas2\Formulas2\obj\Debug\Formulas2.csproj.CoreCompileInputs.cache
+C:\Users\Rigob\Desktop\School\F18\Code\Formulas2\Formulas2\bin\Debug\Formulas2.exe.config
+C:\Users\Rigob\Desktop\School\F18\Code\Formulas2\Formulas2\bin\Debug\Formulas2.exe
+C:\Users\Rigob\Desktop\School\F18\Code\Formulas2\Formulas2\bin\Debug\Formulas2.pdb
+C:\Users\Rigob\Desktop\School\F18\Code\Formulas2\Formulas2\obj\Debug\Formulas2.exe
+C:\Users\Rigob\Desktop\School\F18\Code\Formulas2\Formulas2\obj\Debug\Formulas2.pdb
