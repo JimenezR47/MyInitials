@@ -1,0 +1,7 @@
+C:\Users\Rigob\Desktop\School\F18\Code\MyInitials\MyInitials\bin\Debug\MyInitials.exe.config
+C:\Users\Rigob\Desktop\School\F18\Code\MyInitials\MyInitials\bin\Debug\MyInitials.exe
+C:\Users\Rigob\Desktop\School\F18\Code\MyInitials\MyInitials\bin\Debug\MyInitials.pdb
+C:\Users\Rigob\Desktop\School\F18\Code\MyInitials\MyInitials\obj\Debug\MyInitials.csprojAssemblyReference.cache
+C:\Users\Rigob\Desktop\School\F18\Code\MyInitials\MyInitials\obj\Debug\MyInitials.csproj.CoreCompileInputs.cache
+C:\Users\Rigob\Desktop\School\F18\Code\MyInitials\MyInitials\obj\Debug\MyInitials.exe
+C:\Users\Rigob\Desktop\School\F18\Code\MyInitials\MyInitials\obj\Debug\MyInitials.pdb
