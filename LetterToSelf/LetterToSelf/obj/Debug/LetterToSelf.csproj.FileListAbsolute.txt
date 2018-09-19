@@ -1,0 +1,7 @@
+C:\Users\Rigob\Desktop\School\F18\Code\LetterToSelf\LetterToSelf\bin\Debug\LetterToSelf.exe.config
+C:\Users\Rigob\Desktop\School\F18\Code\LetterToSelf\LetterToSelf\bin\Debug\LetterToSelf.exe
+C:\Users\Rigob\Desktop\School\F18\Code\LetterToSelf\LetterToSelf\bin\Debug\LetterToSelf.pdb
+C:\Users\Rigob\Desktop\School\F18\Code\LetterToSelf\LetterToSelf\obj\Debug\LetterToSelf.csprojAssemblyReference.cache
+C:\Users\Rigob\Desktop\School\F18\Code\LetterToSelf\LetterToSelf\obj\Debug\LetterToSelf.csproj.CoreCompileInputs.cache
+C:\Users\Rigob\Desktop\School\F18\Code\LetterToSelf\LetterToSelf\obj\Debug\LetterToSelf.exe
+C:\Users\Rigob\Desktop\School\F18\Code\LetterToSelf\LetterToSelf\obj\Debug\LetterToSelf.pdb
