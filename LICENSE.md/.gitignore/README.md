@@ -1,2 +1,1 @@
-# MyInitials
-Display my initials in block form.
+Code created during school coding courses.
