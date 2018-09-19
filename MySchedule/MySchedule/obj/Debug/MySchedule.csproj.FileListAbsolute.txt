@@ -1,0 +1,7 @@
+C:\Users\Rigob\Desktop\School\F18\Code\MySchedule\MySchedule\obj\Debug\MySchedule.csprojAssemblyReference.cache
+C:\Users\Rigob\Desktop\School\F18\Code\MySchedule\MySchedule\obj\Debug\MySchedule.csproj.CoreCompileInputs.cache
+C:\Users\Rigob\Desktop\School\F18\Code\MySchedule\MySchedule\bin\Debug\MySchedule.exe.config
+C:\Users\Rigob\Desktop\School\F18\Code\MySchedule\MySchedule\bin\Debug\MySchedule.exe
+C:\Users\Rigob\Desktop\School\F18\Code\MySchedule\MySchedule\bin\Debug\MySchedule.pdb
+C:\Users\Rigob\Desktop\School\F18\Code\MySchedule\MySchedule\obj\Debug\MySchedule.exe
+C:\Users\Rigob\Desktop\School\F18\Code\MySchedule\MySchedule\obj\Debug\MySchedule.pdb
