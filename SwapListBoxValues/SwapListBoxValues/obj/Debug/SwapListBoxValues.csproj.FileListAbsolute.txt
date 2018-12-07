@@ -1,0 +1,10 @@
+X:\School\F18\Code\SwapListBoxValues\SwapListBoxValues\bin\Debug\SwapListBoxValues.exe.config
+X:\School\F18\Code\SwapListBoxValues\SwapListBoxValues\bin\Debug\SwapListBoxValues.exe
+X:\School\F18\Code\SwapListBoxValues\SwapListBoxValues\bin\Debug\SwapListBoxValues.pdb
+X:\School\F18\Code\SwapListBoxValues\SwapListBoxValues\obj\Debug\SwapListBoxValues.csprojAssemblyReference.cache
+X:\School\F18\Code\SwapListBoxValues\SwapListBoxValues\obj\Debug\SwapListBoxValues.SwapBox.resources
+X:\School\F18\Code\SwapListBoxValues\SwapListBoxValues\obj\Debug\SwapListBoxValues.Properties.Resources.resources
+X:\School\F18\Code\SwapListBoxValues\SwapListBoxValues\obj\Debug\SwapListBoxValues.csproj.GenerateResource.cache
+X:\School\F18\Code\SwapListBoxValues\SwapListBoxValues\obj\Debug\SwapListBoxValues.csproj.CoreCompileInputs.cache
+X:\School\F18\Code\SwapListBoxValues\SwapListBoxValues\obj\Debug\SwapListBoxValues.exe
+X:\School\F18\Code\SwapListBoxValues\SwapListBoxValues\obj\Debug\SwapListBoxValues.pdb
