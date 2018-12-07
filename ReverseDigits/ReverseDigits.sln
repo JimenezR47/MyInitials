@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseDigits", "ReverseDigits\ReverseDigits.csproj", "{D3BDB91E-BE6F-41A9-9FD1-DFF00AFDF5F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3BDB91E-BE6F-41A9-9FD1-DFF00AFDF5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BDB91E-BE6F-41A9-9FD1-DFF00AFDF5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BDB91E-BE6F-41A9-9FD1-DFF00AFDF5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BDB91E-BE6F-41A9-9FD1-DFF00AFDF5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B012EFA4-6E72-48FD-8443-37BF811AA79B}
+	EndGlobalSection
+EndGlobal

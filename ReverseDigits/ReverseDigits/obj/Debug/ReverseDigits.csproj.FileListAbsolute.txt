@@ -1,0 +1,14 @@
+H:\CSCI105\ReverseDigits\ReverseDigits\bin\Debug\ReverseDigits.exe.config
+H:\CSCI105\ReverseDigits\ReverseDigits\bin\Debug\ReverseDigits.exe
+H:\CSCI105\ReverseDigits\ReverseDigits\bin\Debug\ReverseDigits.pdb
+H:\CSCI105\ReverseDigits\ReverseDigits\obj\Debug\ReverseDigits.csprojAssemblyReference.cache
+H:\CSCI105\ReverseDigits\ReverseDigits\obj\Debug\ReverseDigits.csproj.CoreCompileInputs.cache
+H:\CSCI105\ReverseDigits\ReverseDigits\obj\Debug\ReverseDigits.exe
+H:\CSCI105\ReverseDigits\ReverseDigits\obj\Debug\ReverseDigits.pdb
+X:\School\F18\Code\ReverseDigits\ReverseDigits\bin\Debug\ReverseDigits.exe.config
+X:\School\F18\Code\ReverseDigits\ReverseDigits\bin\Debug\ReverseDigits.exe
+X:\School\F18\Code\ReverseDigits\ReverseDigits\bin\Debug\ReverseDigits.pdb
+X:\School\F18\Code\ReverseDigits\ReverseDigits\obj\Debug\ReverseDigits.csprojAssemblyReference.cache
+X:\School\F18\Code\ReverseDigits\ReverseDigits\obj\Debug\ReverseDigits.csproj.CoreCompileInputs.cache
+X:\School\F18\Code\ReverseDigits\ReverseDigits\obj\Debug\ReverseDigits.exe
+X:\School\F18\Code\ReverseDigits\ReverseDigits\obj\Debug\ReverseDigits.pdb
