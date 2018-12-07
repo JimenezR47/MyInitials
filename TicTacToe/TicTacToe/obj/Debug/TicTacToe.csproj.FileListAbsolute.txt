@@ -1,0 +1,20 @@
+X:\School\F18\Code\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+X:\School\F18\Code\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+X:\School\F18\Code\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+X:\School\F18\Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+X:\School\F18\Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+X:\School\F18\Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+X:\School\F18\Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+X:\School\F18\Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+X:\School\F18\Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+X:\School\F18\Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\RJimenez\Downloads\TicTacToe (Works)\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\RJimenez\Downloads\TicTacToe (Works)\TicTacToe\TicTacToe\obj\Debug\TicTacToe.TicTacToe.resources
+C:\Users\RJimenez\Downloads\TicTacToe (Works)\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\RJimenez\Downloads\TicTacToe (Works)\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\RJimenez\Downloads\TicTacToe (Works)\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\RJimenez\Downloads\TicTacToe (Works)\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\RJimenez\Downloads\TicTacToe (Works)\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\RJimenez\Downloads\TicTacToe (Works)\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\RJimenez\Downloads\TicTacToe (Works)\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\RJimenez\Downloads\TicTacToe (Works)\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
