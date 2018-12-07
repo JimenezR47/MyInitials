@@ -1,0 +1,7 @@
+X:\School\F18\Code\GrossPay\GrossPay\obj\Debug\GrossPay.csprojAssemblyReference.cache
+X:\School\F18\Code\GrossPay\GrossPay\obj\Debug\GrossPay.csproj.CoreCompileInputs.cache
+X:\School\F18\Code\GrossPay\GrossPay\bin\Debug\GrossPay.exe.config
+X:\School\F18\Code\GrossPay\GrossPay\bin\Debug\GrossPay.exe
+X:\School\F18\Code\GrossPay\GrossPay\bin\Debug\GrossPay.pdb
+X:\School\F18\Code\GrossPay\GrossPay\obj\Debug\GrossPay.exe
+X:\School\F18\Code\GrossPay\GrossPay\obj\Debug\GrossPay.pdb
